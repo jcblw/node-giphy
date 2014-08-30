@@ -1,0 +1,29 @@
+{
+  "name": "giphy",
+  "version": "0.0.3",
+  "description": "A simple wrapper around giphy's api",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcblw/node-giphy"
+  },
+  "keywords": [
+    "gif"
+  ],
+  "author": "Jacob Lowe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcblw/node-giphy/issues"
+  },
+  "homepage": "https://github.com/jcblw/node-giphy",
+  "dependencies": {
+    "request": "~2.40.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.4",
+    "expect.js": "~0.3.1"
+  }
+}
