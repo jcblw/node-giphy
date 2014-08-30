@@ -1,4 +1,4 @@
-## Node Giphy
+## Node Giphy [![Build Status](https://travis-ci.org/jcblw/node-giphy.svg?branch=master)](https://travis-ci.org/jcblw/node-giphy)
 
 Play around with [Giphy's]( http://giphy.com ) api in node 
 
