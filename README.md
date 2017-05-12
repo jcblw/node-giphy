@@ -1,5 +1,7 @@
 ## Node Giphy [![Build Status](https://travis-ci.org/jcblw/node-giphy.svg?branch=master)](https://travis-ci.org/jcblw/node-giphy)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/node-giphy.svg)](https://greenkeeper.io/)
+
 Play around with [Giphy's]( http://giphy.com ) api in node 
 
 ![Eagle playing with spinkler](http://i.imgur.com/5VFEyTd.gif)
