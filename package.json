@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/jcblw/node-giphy",
   "dependencies": {
-    "request": "~2.81.0"
+    "request": "~2.83.0"
   },
   "devDependencies": {
     "mocha": "~3.5.0",
